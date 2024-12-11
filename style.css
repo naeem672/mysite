@@ -1,0 +1,131 @@
+h1#shooping {
+    color: #25262a;
+    letter-spacing: .7em;
+    border: 2px solid black;
+    padding-left: 20px;
+    font-size: 20px;
+    padding-right: 20px;
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-weight: 300;
+}
+.icons {
+    text-align: end;
+    color: gray;
+    font-size: 20px;
+}
+i.fa-solid.fa-user {
+    padding-right: 10px;
+}
+i.fa-regular.fa-heart {
+    padding-right: 10px;
+}
+.site-navbar-top {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: white;
+    margin-top: 17px;
+}
+.b-color {
+    background: #4b494e78;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+img#size {
+    width: 100%;
+}
+h1#find {
+    font-size: 74px;
+    color: white;
+    font-weight: 700;
+    padding-bottom: 30px;
+}
+p#find-p {
+    color: white;
+    line-height: 26px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+.apply {
+    padding-top: 10%;
+}
+.fa-solid.fa-truck {
+    font-size: 35px;
+    color: #7971ea;
+    padding-bottom: 10px;
+}
+i.fa-solid.fa-arrow-rotate-right {
+    color: #7971ea;
+    font-size: 35px;
+    padding-bottom: 10px;
+}
+i.fa-solid.fa-question{
+    color: #7971ea;
+    font-size: 35px;
+    padding-bottom: 10px;
+}
+h1#Free {
+    font-size: 18px;
+    padding-top: 10px;
+}
+p#free-p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #aaa9ab;
+    padding-top: 10px;
+}
+img {
+    width: 100%;
+}
+.text {
+    background: #000000;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+span.text-uppercase {
+    font-size: 12px;
+    font-weight: 200;
+    letter-spacing: .1cm;
+}
+h3 {
+    padding-top: 10px;
+}
+.col-12 {
+    text-align: center;
+    padding-bottom: 5%;
+}
+.item-1 {
+    text-align: center;
+    background: #f0f0f0;
+    padding: 10px;
+}
+h1#shirt {
+    font-size: 18px;
+    color: #7971ea;
+    padding-top: 18px;
+}
+p#shirt {
+    margin-bottom: 6px;
+}
+.no {
+    padding-top: 17%;
+    text-align: center;
+}
+
+span#purple {
+    color: #7971ea;
+}
+a#purple {
+    color: #7971ea;
+}
+button.btn.btn-primary {
+    margin-top: 5%;
+    background: #7971ea;
+    border: 1px solid #7971ea;
+    padding: 13px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
